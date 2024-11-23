@@ -29,6 +29,7 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile9`, function (sprite, location) {
     game.gameOver(true)
     game.setGameOverEffect(true, effects.hearts)
+    info.startCountdown(10)
 })
 controller.right.onEvent(ControllerButtonEvent.Pressed, function () {
     controller.moveSprite(mySprite, 80, 0)
