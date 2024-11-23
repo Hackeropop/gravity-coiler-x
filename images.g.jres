@@ -1,0 +1,14 @@
+{
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "OTAwMTA4MDAwODAwMDIwMDAwMDAwMDAwMDAwMDAwMDAwMDYwNjYwMDAwNjY2NjA2NjA2NmY2NjY2MDY2NjY2NjY2NjY2NjY2NjY2NjY2MDYwMDAwMDAwMDAwMDAwMDAwMDA2MDY2MDAwMDY2NjYwNjAwNjZmNjY2NjA2NjY2NjY2MDY2NjY2NjYwNjY2NjY2",
+        "displayName": "blob walk"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
